@@ -23,3 +23,6 @@
 #RemoteBombTemplate
 -Starts a socket server and generates a script to detonate a function remotely
 -Its a template so the function must be written first
+-Only on local networks available
+
+#Note: Im not responsable for any actions taken, educational purposes only
